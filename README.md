@@ -27,13 +27,13 @@ git clone https://github.com/Jhormancastella/-Lista-de-Palabras-nicas-con-TreeSe
 2. Compila el archivo Java:
 
    ```bash
-   javac ListaPalabras.java
+   javac ListaDePalabrasUnicas.java
    ```
 
 3. Ejecuta el programa:
 
    ```bash
-   java ListaPalabras
+   java ListaDePalabrasUnicas
    ```
 
 ## 🛠️ Uso
