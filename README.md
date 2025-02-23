@@ -1,6 +1,6 @@
 # Taller de Java:
 
-## 🚀 Ejercicio #3 Lista de Palabras Únicas con TreeSet
+## 🚀 Ejercicio #6 Lista de Palabras Únicas con TreeSet
 
 ## 📌 Propósito
 
